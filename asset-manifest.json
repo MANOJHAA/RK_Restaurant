@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RK_Restaurant/static/css/main.b4bc4e94.css",
+    "main.js": "/RK_Restaurant/static/js/main.919e45eb.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/RK_Restaurant/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/vanjaram.jpeg": "/RK_Restaurant/static/media/vanjaram.d9c4232dce9816f78cdc.jpeg",
+    "static/media/beansporiyal.jpeg": "/RK_Restaurant/static/media/beansporiyal.a21fcb8c0b6ce2e44a3e.jpeg",
+    "static/media/pc.jpg": "/RK_Restaurant/static/media/pc.df409e7b94ff98228edb.jpg",
+    "static/media/bg.jpg": "/RK_Restaurant/static/media/bg.441bc0fb12f564bd3ff4.jpg",
+    "static/media/chicken_leg_dry.jpg": "/RK_Restaurant/static/media/chicken_leg_dry.2605ff329d71eecfc71f.jpg",
+    "static/media/ci.jpg": "/RK_Restaurant/static/media/ci.9f4db794cee2f93dd89c.jpg",
+    "static/media/Veg thali.jpg": "/RK_Restaurant/static/media/Veg thali.36cae31c685834624bd7.jpg",
+    "static/media/rk.jpg": "/RK_Restaurant/static/media/rk.c6a85e9817855b73b143.jpg",
+    "static/media/chicken fry.jpg": "/RK_Restaurant/static/media/chicken fry.35e1df01c972833c1c77.jpg",
+    "index.html": "/RK_Restaurant/index.html",
+    "main.b4bc4e94.css.map": "/RK_Restaurant/static/css/main.b4bc4e94.css.map",
+    "main.919e45eb.js.map": "/RK_Restaurant/static/js/main.919e45eb.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/RK_Restaurant/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4bc4e94.css",
+    "static/js/main.919e45eb.js"
+  ]
+}
