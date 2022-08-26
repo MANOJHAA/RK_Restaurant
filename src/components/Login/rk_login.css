@@ -1,0 +1,47 @@
+
+.ht {
+    width: 1000px;
+    height:50px;
+    background-color: rgb(218, 243, 137);
+    margin: auto; 
+    margin-bottom: 20px; 
+    box-shadow: 1px 2px 3px 3px blue;
+}
+h1{
+    color: darkgreen;
+    font-family:'Courier New', Courier, monospace;
+    font-size:35px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top:5px;
+
+}
+.fv{
+    margin:auto;
+    border: 2px inset brown;
+    width: 700px;
+    height: 300px;
+}
+.fv > img {
+    box-shadow: 1px 2px 3px 4px rgb(248, 4, 4);
+}
+.f{
+    margin: auto;
+    width: 300px;
+    height:250px;
+    padding:40px 0px;
+    padding-left:110px ;
+    box-shadow: 1px 2px 3px 3px brown;
+    background-color: gainsboro;
+    align-items: center;
+    font-family: monospace;
+    font-size:large;
+    font-weight: bold;
+}
+.etr{
+    color: cornsilk;
+    background-color: blue;
+}
+.psp{
+    color: blueviolet;
+}

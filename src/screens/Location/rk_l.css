@@ -1,0 +1,31 @@
+.l{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 80px;
+}
+.ln{
+   box-shadow: 1px 2px 4px 2px gray inset;
+    display:flex;
+    border-left: 100px solid rgb(189, 100, 153);
+    border-top: 2px solid rgb(189, 100, 153) ;
+    border-radius: 10px;
+}
+.ie{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.as{
+    margin-left: 3vw;
+    margin-top: 18vh;
+}
+address{
+    color: black;
+    font-size: large;
+    font-weight:800;
+    font-family:'Courier New', Courier, monospace;
+   /* transform: rotate(-8deg);*/
+    animation: mymove 1s infinite;
+}
+@keyframes mymove {
+  60% {box-shadow: 20px 20px 50px 10px pink inset;}
+}

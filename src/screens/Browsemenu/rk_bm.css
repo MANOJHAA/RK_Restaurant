@@ -1,0 +1,73 @@
+.article{
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 60px;
+    
+}
+.iy > img{
+    box-shadow: 2px 2px 3px 1px;
+    margin-bottom: 3vh;
+}
+.iy > img:hover{
+    transform: scale(1.1, 1.1);
+    transition:transform .6s;
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform:capitalize;
+}
+.lk > a{
+    font-family:arial;
+    font-size: larger;
+    font-weight: 900;
+    text-decoration: none;
+    color: rgb(59, 7, 247);
+}
+.lk > a:hover{
+    color: rgba(13, 179, 8, 0.8);
+}
+.ph{
+    background-color: #fff;
+    box-shadow: 1px 2px 3px;
+}
+.ph > p{
+    font-weight:700;
+    text-indent: 50px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS';
+    word-spacing: 10px;
+    padding: 5px 10px;
+    line-height: 30px;
+}
+.bc > img{
+    box-shadow: 2px 2px 3px 1px;
+    margin-bottom: 3vh;
+}
+.bc > img:hover{
+    transform: scale(1.1, 1.1);
+    transition:transform .6s;
+}
+.pc > img{
+    box-shadow: 2px 2px 3px 1px;
+    margin-bottom: 3vh;
+}
+.pc > img:hover{
+    transform: scale(1.1, 1.1);
+    transition:transform .6s;
+}
+.bp > img{
+    box-shadow: 2px 2px 3px 1px;
+    margin-bottom: 3vh;
+}
+.bp > img:hover{
+    transform: scale(1.1, 1.1);
+    transition:transform .6s;
+}
+.vf > img{
+    box-shadow: 2px 2px 3px 1px;
+    margin-bottom: 3vh;
+}
+.vf > img:hover{
+    transform: scale(1.1, 1.1);
+    transition:transform .6s;
+}
